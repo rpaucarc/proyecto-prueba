@@ -1,0 +1,6 @@
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterLibreria\bin\Debug\CurrencyConverterLibreria.dll
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterLibreria\bin\Debug\CurrencyConverterLibreria.pdb
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterLibreria\obj\Debug\CurrencyConverterLibreria.csprojAssemblyReference.cache
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterLibreria\obj\Debug\CurrencyConverterLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterLibreria\obj\Debug\CurrencyConverterLibreria.dll
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterLibreria\obj\Debug\CurrencyConverterLibreria.pdb

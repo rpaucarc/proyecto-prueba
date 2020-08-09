@@ -1,0 +1,22 @@
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterForns.exe.config
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterForns.exe
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterForns.pdb
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.FrmCurrency.resources
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForns.Properties.Resources.resources
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.csproj.GenerateResource.cache
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.csproj.CoreCompileInputs.cache
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForns.exe
+D:\00 archivos\01 Cursos UNCP\181U Tópicos avanzados Ingenieria software\1 Fuente\Sesion04\CurrencyConverter\Inicial\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForns.pdb
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterForns.exe.config
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterForns.exe
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterForns.pdb
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterLibreria.dll
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\bin\Debug\CurrencyConverterLibreria.pdb
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.csprojAssemblyReference.cache
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.FrmCurrency.resources
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForns.Properties.Resources.resources
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.csproj.GenerateResource.cache
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForms.csproj.CopyComplete
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForns.exe
+C:\Users\Daniel\Downloads\CurrencyConverter\CurrencyConverterForns\obj\Debug\CurrencyConverterForns.pdb
